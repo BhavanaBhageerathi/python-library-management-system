@@ -98,15 +98,21 @@ Screenshots demonstrating the application's interface and functionality will be 
 
 ### Main Menu
 
-![Library Management System Main Menu](screenshots/main-menu.png)
+![Library Management System Main Menu](screenshots/main_menu.png)
 
 ### Book List
 
-![Library Book List](screenshots/book-list.png)
+![Library Book List](screenshots/view_book.png)
 
 ### Book Management
 
-![Library Book Management](screenshots/book-management.png)
+![Library Book Management](screenshots/add_author.png)
+![Library Book Management](screenshots/add_category.png)
+![Library Book Management](screenshots/delete_book.png)
+![Library Book Management](screenshots/search_book.png)
+![Library Book Management](screenshots/update_book.png)
+![Library Book Management](screenshots/add_book.png)
+![Library Book Management](screenshots/exit.png)
 
 ## Future Enhancements
 
